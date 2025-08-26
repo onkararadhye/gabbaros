@@ -106,4 +106,6 @@ Community contributions are always welcome!
 - 📩 Reach out via GitHub Issues for feedback & collaboration.  
 
 ---
-project live at <a href=https://drive.google.com/file/d/1fTZukT4zUR3zEbq9wYmCpaxobNl2DSVv/view?usp=drive_link>download here</a>
+## 📥 Download GabbarOS
+
+[➡️ **Download Here**](https://drive.google.com/uc?id=1fTZukT4zUR3zEbq9wYmCpaxobNl2DSVv&export=download)
