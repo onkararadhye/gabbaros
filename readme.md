@@ -1,9 +1,4 @@
 ---
-  ____       _     _                 ___  ____  
- / ___| __ _| |__ | |__   __ _ _ __ / _ \/ ___| 
-| |  _ / _` | '_ \| '_ \ / _` | '__| | | \___ \ 
-| |_| | (_| | |_) | |_) | (_| | |  | |_| |___) |
- \____|\__,_|_.__/|_.__/ \__,_|_|   \___/|____/ 
 # GabbarOS  
 
 GabbarOS is a **custom Linux-based operating system** inspired by **Kali Linux** and **Debian**, designed for security researchers, ethical hackers, and power users. It combines the **hacking power of Kali Linux**, the **stability of Debian**, and the **modern Windows-like UI of Zorin OS (XFCE desktop)** to deliver a complete penetration testing and daily-use environment.  
